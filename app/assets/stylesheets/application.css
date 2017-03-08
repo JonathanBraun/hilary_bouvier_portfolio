@@ -15,7 +15,7 @@
  */
 
 body {
-  font-family: 'League Spartan';
+  font-family: Century Gothic;
 }
 
 h1 {
@@ -23,14 +23,6 @@ h1 {
   font-size: 50px;
 }
 
-@font-face {
-  font-family: 'League Spartan';
-  font-weight: bold;
-  font-style: normal;
-  src: url('leaguespartan-bold.eot?') format('eot'), url('leaguespartan-bold.woff') format('woff'), url('leaguespartan-bold.ttf') format('truetype');
-}
-
-
-.Poiret {
-  font-family: 'Poiret One', cursive;
+.petrona {
+  font-family: 'Petrona', serif;
 }

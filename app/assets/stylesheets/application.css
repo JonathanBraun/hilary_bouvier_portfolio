@@ -14,77 +14,23 @@
  *= require_self
  */
 
-
-
-
-.Averia {
-  font-family: 'Averia Libre', cursive;
+body {
+  font-family: 'League Spartan';
 }
 
-.Barrio {
-  font-family: 'Barrio', cursive;
+h1 {
+  text-align: center;
+  font-size: 50px;
 }
 
-.Bungee {
-  font-family: 'Bungee Shade', cursive;
+@font-face {
+  font-family: 'League Spartan';
+  font-weight: bold;
+  font-style: normal;
+  src: url('leaguespartan-bold.eot?') format('eot'), url('leaguespartan-bold.woff') format('woff'), url('leaguespartan-bold.ttf') format('truetype');
 }
 
-.Cabin {
-  font-family: 'Cabin Sketch', cursive;
-}
-
-.Croissant {
-  font-family: 'Croissant One', cursive;
-}
-
-.Faster {
-  font-family: 'Faster One', cursive;
-}
-
-.Fjalla {
-  font-family: 'Fjalla One', sans-serif;
-}
-
-.Flamenco {
-  font-family: 'Flamenco', cursive;
-}
-
-.Josefin {
-  font-family: 'Josefin Sans', sans-serif;
-}
-
-.Julius {
-  font-family: 'Julius Sans One', sans-serif;
-}
-
-.Megrim {
-  font-family: 'Megrim', cursive;
-}
-
-.Mirza {
-  font-family: 'Mirza', cursive;
-}
 
 .Poiret {
   font-family: 'Poiret One', cursive;
-}
-
-.Righteous {
-  font-family: 'Righteous', cursive;
-}
-
-.Rubik {
-  font-family: 'Rubik Mono One', sans-serif;
-}
-
-.Sirin {
-  font-family: 'Sirin Stencil', cursive;
-}
-
-.Spinnaker {
-  font-family: 'Spinnaker', sans-serif;
-}
-
-.Ultra {
-  font-family: 'Ultra', serif;
 }

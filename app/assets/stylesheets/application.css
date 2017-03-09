@@ -14,19 +14,21 @@
  *= require_self
  */
 
-body, html {
+body {
   font-family: Century Gothic;
   margin: 0;
 }
 
-h1 {
-
+h1.ontop {
   text-align: center;
-  font-size: 50px;
+  font-size: 200px;
+  margin-top: 0px;
+  text-shadow: 2px 2px #FFFFFF;
+
 }
 
 p {
-  margin: 10px;
+  margin-left: 10px;
 }
 
 

@@ -19,10 +19,12 @@ body {
   margin: 0;
 }
 
-h1 {
+h1.ontop {
   text-align: center;
   font-size: 200px;
   margin-top: 0px;
+  text-shadow: 2px 2px #FFFFFF;
+
 }
 
 p {

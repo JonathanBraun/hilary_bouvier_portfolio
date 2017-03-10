@@ -32,7 +32,7 @@ p {
 }
 
 
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5 {
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .psimg-1, .psimg-2 {
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
@@ -66,6 +66,18 @@ p {
   background-image: url("boston_boxed_bread/bbb5.png");
   min-height: 400px;
 }
+
+.psimg-1 {
+  background-image: url("paula_scher/ps1.jpg");
+  min-height: 1000px;
+}
+
+.psimg-2 {
+  background-image: url("paula_scher/ps2.jpg");
+  min-height: 400px;
+}
+
+
 
 
 .caption {

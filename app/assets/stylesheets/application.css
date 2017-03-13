@@ -33,12 +33,25 @@ p {
 
 
 .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .psimg-1, .psimg-2 {
-    position: relative;
-    opacity: 0.65;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box {
+  overflow: scroll;
+}
+
+.gtgimg-1, .gtgimg-3, .gtgimg-4{
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
@@ -74,7 +87,22 @@ p {
 
 .psimg-2 {
   background-image: url("paula_scher/ps2.jpg");
-  min-height: 400px;
+  min-height: 800px;
+}
+
+.gtgimg-1 {
+  background-image: url("globe_to_glass/gtg1.jpg");
+  min-height: 1000px;
+}
+
+.gtgimg-3 {
+  background-image: url("globe_to_glass/gtg3.jpg");
+  min-height: 800px;
+}
+
+.gtgimg-4 {
+  background-image: url("globe_to_glass/gtg4.jpg");
+  min-height: 800px;
 }
 
 

@@ -32,13 +32,26 @@ p {
 }
 
 
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5 {
-    position: relative;
-    opacity: 0.65;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .psimg-1, .psimg-2,.hhimg-1,.hh_wp1,.hhimg-2, .mfbimg-1, .mfbimg-2, .mfbimg-3, .mfbimg-4, .mfbimg-5, .mfbimg-6, .mfbimg-7, .mfbimg-8, .mfbimg-9  {
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box {
+  overflow: scroll;
+}
+
+.gtgimg-1, .gtgimg-3, .gtgimg-4{
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
@@ -66,6 +79,95 @@ p {
   background-image: url("boston_boxed_bread/bbb5.png");
   min-height: 400px;
 }
+
+.gtgimg-1 {
+  background-image: url("globe_to_glass/gtg1.jpg");
+  min-height: 1000px;
+}
+
+.gtgimg-3 {
+  background-image: url("globe_to_glass/gtg3.jpg");
+  min-height: 800px;
+}
+
+.gtgimg-4 {
+  background-image: url("globe_to_glass/gtg4.jpg");
+  min-height: 800px;
+}
+
+.hhimg-1 {
+  background-image: url("happiness_hypothesis_covers/hh1.jpg");
+  min-height: 1000px;
+}
+
+.hh_wp1 {
+  background-image: url("happiness_hypothesis_covers/hh_wp1.png");
+  min-height: 1000px;
+}
+
+.hhimg-2 {
+  background-image: url("happiness_hypothesis_covers/hh2.jpg");
+  min-height: 800px;
+}
+
+.mfbimg-1 {
+  background-image: url("morris_fuller_benton/mfb1.jpg");
+  min-height: 1000px;
+}
+
+.mfbimg-2 {
+  background-image: url("morris_fuller_benton/mfb2.jpg");
+  min-height: 800px;
+}
+
+.mfbimg-3 {
+  background-image: url("morris_fuller_benton/mfb3.jpg");
+  min-height: 800px;
+}
+
+.mfbimg-4 {
+  background-image: url("morris_fuller_benton/mfb4.jpg");
+  min-height: 800px;
+}
+
+.mfbimg-5 {
+  background-image: url("morris_fuller_benton/mfb5.jpg");
+  min-height: 800px;
+}
+
+.mfbimg-6 {
+  background-image: url("morris_fuller_benton/mfb6.jpg");
+  min-height: 800px;
+}
+
+.mfbimg-7 {
+  background-image: url("morris_fuller_benton/mfb7.jpg");
+  min-height: 800px;
+}
+
+.mfbimg-8 {
+  background-image: url("morris_fuller_benton/mfb8.jpg");
+  min-height: 800px;
+}
+
+.mfbimg-9 {
+  background-image: url("morris_fuller_benton/mfb9.jpg");
+  min-height: 800px;
+}
+
+.psimg-1 {
+  background-image: url("paula_scher/ps1.jpg");
+  min-height: 1000px;
+}
+
+.psimg-2 {
+  background-image: url("paula_scher/ps2.jpg");
+  min-height: 800px;
+}
+
+
+
+
 
 
 .caption {

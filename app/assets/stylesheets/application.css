@@ -32,7 +32,7 @@ p {
 }
 
 
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .psimg-1, .psimg-2,.hhimg-1,.hh_wp1,.hhimg-2, .mfbimg-1, .mfbimg-2, .mfbimg-3, .mfbimg-4, .mfbimg-5, .mfbimg-6, .mfbimg-7, .mfbimg-8, .mfbimg-9  {
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .cam1, .cam2, .cam3, .psimg-1, .psimg-2,.hhimg-1,.hh_wp1,.hhimg-2, .mfbimg-1, .mfbimg-2, .mfbimg-3, .mfbimg-4, .mfbimg-5, .mfbimg-6, .mfbimg-7, .mfbimg-8, .mfbimg-9  {
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
@@ -77,6 +77,21 @@ p {
 
 .bgimg-5 {
   background-image: url("boston_boxed_bread/bbb5.png");
+  min-height: 400px;
+}
+
+.cam1 {
+  background-image: url("lumography/cam1.jpg");
+  min-height: 1000px;
+}
+
+.cam2 {
+  background-image: url("lumography/cam2.jpg");
+  min-height: 400px;
+}
+
+.cam3 {
+  background-image: url("lumography/cam3.jpg");
   min-height: 400px;
 }
 

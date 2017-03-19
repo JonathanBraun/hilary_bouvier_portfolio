@@ -6,5 +6,9 @@ Rails.application.routes.draw do
   get '/globe_to_glass', to: 'portfolio#gtg'
   get '/happiness_hypothesis', to: 'portfolio#hh'
   get '/morris_fuller_benton', to: 'portfolio#mfb'
+  get '/lumography', to: 'portfolio#cam'
+  get '/carolina_turfworks', to: "portfolio#ctw"
+  get '/condensed_history_of_type', to: "portfolio#chot"
+
 
 end

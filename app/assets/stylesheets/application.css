@@ -32,7 +32,7 @@ p {
 }
 
 
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .psimg-1, .psimg-2,.hhimg-1,.hh_wp1,.hhimg-2, .mfbimg-1, .mfbimg-2, .mfbimg-3, .mfbimg-4, .mfbimg-5, .mfbimg-6, .mfbimg-7, .mfbimg-8, .mfbimg-9  {
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .cam1, .cam2, .cam3, .ctwimg-1, .ctwimg-2, .ctwimg-3, .ctwimg-4, .chot-1, .chot-2, .chot-3, .chot-4, .chot-5, .chot-6, .chot-7, .chot-8, .psimg-1, .psimg-2, .hhimg-1, .hh_wp1, .hhimg-2, .mfbimg-1, .mfbimg-2, .mfbimg-3, .mfbimg-4, .mfbimg-5, .mfbimg-6, .mfbimg-7, .mfbimg-8, .mfbimg-9  {
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
@@ -79,6 +79,82 @@ p {
   background-image: url("boston_boxed_bread/bbb5.png");
   min-height: 400px;
 }
+
+.cam1 {
+  background-image: url("lumography/cam1.jpg");
+  min-height: 1000px;
+}
+
+.cam2 {
+  background-image: url("lumography/cam2.jpg");
+  min-height: 400px;
+}
+
+.cam3 {
+  background-image: url("lumography/cam3.jpg");
+  min-height: 400px;
+}
+
+.chot-1 {
+  background-image: url("condensed_history_of_type/chot1.jpg");
+  min-height: 1000px;
+}
+
+.chot-2 {
+  background-image: url("condensed_history_of_type/chot2.jpg");
+  min-height: 800px;
+}
+
+.chot-3 {
+  background-image: url("condensed_history_of_type/chot3.jpg");
+  min-height: 800px;
+}
+
+.chot-4 {
+  background-image: url("condensed_history_of_type/chot4.jpg");
+  min-height: 800px;
+}
+
+.chot-5 {
+  background-image: url("condensed_history_of_type/chot5.jpg");
+  min-height: 800px;
+}
+
+.chot-6 {
+  background-image: url("condensed_history_of_type/chot6.jpg");
+  min-height: 800px;
+}
+
+.chot-7 {
+  background-image: url("condensed_history_of_type/chot7.jpg");
+  min-height: 800px;
+}
+
+.chot-8 {
+  background-image: url("condensed_history_of_type/chot8.jpg");
+  min-height: 800px;
+}
+
+.ctwimg-1 {
+  background-image: url("carolina_turfworks/ct1.png");
+  min-height: 1000px;
+}
+
+.ctwimg-2 {
+  background-image: url("carolina_turfworks/ct2.jpg");
+  min-height: 1000px;
+}
+
+.ctwimg-3 {
+  background-image: url("carolina_turfworks/ct3.png");
+  min-height: 1000px;
+}
+
+.ctwimg-4 {
+  background-image: url("carolina_turfworks/ct4.png");
+  min-height: 1000px;
+}
+
 
 .gtgimg-1 {
   background-image: url("globe_to_glass/gtg1.jpg");

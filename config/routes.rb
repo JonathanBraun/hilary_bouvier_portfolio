@@ -9,6 +9,7 @@ Rails.application.routes.draw do
   get '/lumography', to: 'portfolio#cam'
   get '/carolina_turfworks', to: "portfolio#ctw"
   get '/condensed_history_of_type', to: "portfolio#chot"
+  get '/postcards', to: "portfolio#pc"
 
 
 end

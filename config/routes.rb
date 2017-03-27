@@ -10,6 +10,6 @@ Rails.application.routes.draw do
   get '/carolina_turfworks', to: "portfolio#ctw"
   get '/condensed_history_of_type', to: "portfolio#chot"
   get '/postcards', to: "portfolio#pc"
-
+  get '/wired', to: "portfolio#wired"
 
 end
